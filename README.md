@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/25807160/123719249-ac99c100-d846-11eb-92c0-a8c867cf5e47.png)
 
 
-[![Diego Nava GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonava6&count_private=true&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&hide=issues,stars,prs)](https://github.com/diegonava6)
+<div align='center' style='align-items: center; justify-content: center;'> <a href="https://diego-nava.com/" target="_blank"><img height='200' src="https://diego-nava.com/images/profile2.jpg"></a> <a target="_blank" href="https://github.com/jstrieb/github-stats"><img height='200' src="https://github.com/diegonava6/gitStatsDiego/blob/master/generated/overview.svg"></a> </p>
 
 
 <p align="center"> <a href="https://diego-nava.com/"><img src="https://img.shields.io/badge/who_I_am-%2300D7C1FF.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
