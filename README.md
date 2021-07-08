@@ -6,3 +6,8 @@
 
 
 <p align="center"> <a href="https://diego-nava.com/"><img src="https://img.shields.io/badge/who_I_am-%2300D7C1FF.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
+
+<hr/>
+
+<p align="center"> <a href="https://recordit.co/wJivV1xeqZ"><img src="https://img.shields.io/badge/what_people_say_about_me-%2300D7C1FF.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
+<div align='center'> <a href="https://recordit.co/wJivV1xeqZ"> <img height='550px' src="http://g.recordit.co/wJivV1xeqZ.gif"></a></div>
