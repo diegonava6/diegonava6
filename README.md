@@ -1,4 +1,4 @@
-<div align='center'> <a href="https://diego-nava.com/"> <img src="https://user-images.githubusercontent.com/25807160/123895310-3cae3800-d925-11eb-973e-055bec18a3ef.gif"></a></div>
+<div align='center'> <a href="https://diego-nava.com/"> <img src="https://user-images.githubusercontent.com/25807160/123895310-3cae3800-d925-11eb-973e-055bec18a3ef.gif"/></a></div>
 
 
 
