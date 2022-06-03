@@ -9,5 +9,5 @@
 
 <hr/>
 
-<p align="center"> <a href="https://recordit.co/wJivV1xeqZ"><img src="https://img.shields.io/badge/what_people_say_about_me-%2300D7C1FF.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
+<p align="center"> <a href="http://recordit.co/CVYs4ix7os"><img src="https://img.shields.io/badge/what_people_say_about_me-%2300D7C1FF.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a></p>
 
