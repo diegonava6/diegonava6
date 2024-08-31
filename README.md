@@ -4,8 +4,3 @@
 
 
 <p align="center"> <a href="https://diego-nava.com/"><img src="https://img.shields.io/badge/who_I_am-%23128b7efa.svg?style=for-the-badge&logo=appveyor" height=25></a></p>
-
-<hr/>
-
-<p align="center"> <a href="http://recordit.co/CVYs4ix7os"><img src="https://img.shields.io/badge/what_people_say_about_me-%23128b7efa.svg?style=for-the-badge&logo=appveyor" height=25></a></p>
-
