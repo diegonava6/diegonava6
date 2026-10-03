@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-labelledby="t">
+  <title id="t">Selected projects. Products I’ve built.</title>
+  <rect width="1000" height="170" fill="#08090b"/>
+  <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.4" fill="#b6b6be">SELECTED PROJECTS</text>
+  <text x="56" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="-2.8" fill="#e6e4df">Products <tspan fill="#c5c7ce" font-style="italic">I’ve built.</tspan></text>
+</svg>

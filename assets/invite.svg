@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-labelledby="t">
+  <title id="t">Bring the idea. I’ll bring the craft.</title>
+  <rect width="1000" height="190" fill="#08090b"/>
+  <line x1="56" y1="0.5" x2="944" y2="0.5" stroke="#ffffff" stroke-opacity=".13"/>
+  <text x="56" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1.4" fill="#b6b6be">HAVE SOMETHING IN MIND?</text>
+  <text x="56" y="124" font-family="Georgia, 'Times New Roman', serif" font-size="48" letter-spacing="-2.4" fill="#e6e4df">Bring the <tspan fill="#c5c7ce" font-style="italic">idea.</tspan> I’ll bring the <tspan fill="#c5c7ce" font-style="italic">craft.</tspan> ↗</text>
+  <text x="56" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" letter-spacing=".4" fill="#94949f">Diego Nava / Web, mobile, AI</text>
+</svg>

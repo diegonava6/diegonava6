@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-labelledby="t">
+  <title id="t">Rosebud. Helping people reflect, with AI.</title>
+  <rect width="1000" height="150" fill="#08090b"/>
+  <line x1="56" y1="0.5" x2="944" y2="0.5" stroke="#ffffff" stroke-opacity=".13"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="44" font-size="11" letter-spacing="1.4" fill="#90909b">01</text>
+    <text x="116" y="44" font-size="10" letter-spacing="1.4" fill="#b6b6be">AI PRODUCT / WEB + MOBILE</text>
+    <text x="116" y="116" font-size="14" fill="#bcbcc4">Helping people reflect, with AI.</text>
+    <text x="116" y="136" font-size="12" fill="#93939e">AI chat, voice, native experiences, and product delivery.</text>
+  </g>
+  <text x="116" y="88" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="-1.4" fill="#e6e4df">Rosebud</text>
+  <text x="944" y="88" font-size="24" fill="#c5c7ce" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">↗</text>
+</svg>
