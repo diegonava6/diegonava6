@@ -6,11 +6,10 @@
   <a href="https://diego-nava.com/tagu"><img src="assets/project-03.svg" alt="TagU. Team feedback, right on the page." width="100%"></a>
   <img src="assets/activity.svg" alt="GitHub activity, all time. The numbers are in the card's title." width="100%">
   <a href="https://diego-nava.com/contact"><img src="assets/invite.svg" alt="Bring the idea. I’ll bring the craft." width="100%"></a>
+  <a href="https://diego-nava.com/about"><img src="assets/avatar.png" alt="Diego Nava, illustrated portrait with a silver crescent eclipse" width="200"></a>
 </div>
 
 <p align="center">
-  <a href="https://diego-nava.com/">Website</a> ·
-  <a href="https://diego-nava.com/resume">Resume</a> ·
-  <a href="https://www.linkedin.com/in/diego6nava/">LinkedIn</a> ·
-  <a href="mailto:diegomorenonava@gmail.com">Email</a>
+  <a href="https://diego-nava.com/"><img src="assets/website-link.svg" alt="Website: explore my work" width="280"></a>
+  <a href="https://diego-nava.com/contact"><img src="assets/contact-link.svg" alt="Contact: get in touch" width="280"></a>
 </p>
