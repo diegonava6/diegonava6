@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <a href="https://diego-nava.com/about"><img src="assets/avatar-pixel.png" alt="Diego Nava, pixel portrait with blank eyes and an ivory crescent eclipse" width="200"></a>
+  <a href="https://diego-nava.com/about"><img src="assets/avatar-seated-smile.png" alt="Diego Nava, seated portrait with a gentle smile and silver crescent eclipse" width="200"></a>
 </p>
